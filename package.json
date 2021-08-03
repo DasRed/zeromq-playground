@@ -1,0 +1,21 @@
+{
+    "name": "zeromq-playground",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "run": "index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DasRed/zeromq-playground.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/DasRed/zeromq-playground/issues"
+    },
+    "homepage": "https://github.com/DasRed/zeromq-playground#readme",
+    "dependencies": {
+        "zeromq": "^6.0.0-beta.6"
+    }
+}
